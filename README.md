@@ -1,5 +1,6 @@
-## spcn17 
-## Kubernetes In Windows
+## **Spcn17**
+
+## **Kubernetes In Windows**
 
 ## Wakatime
 https://wakatime.com/@spcn17/projects/qknlnznyzo
@@ -7,7 +8,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
 **Ref**  https://github.com/TanankornMoonprathom?tab=repositories
 
 
-## 1. Install Kubectl
+## 1. **Install Kubectl**
    - Ref 
     - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
@@ -42,7 +43,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
       kubectl version --client
       ```
 
-## 2. Install minikube
+## 2. **Install minikube**
    - Ref
     - https://minikube.sigs.k8s.io/docs/start/
 
@@ -62,7 +63,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
       ```
    - Restart Terminal
 
-## 3. Install Docker Desktop
+## 3. **Install Docker Desktop**
    - Ref
     - https://docs.docker.com/desktop/install/windows-install/
 
@@ -91,7 +92,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
    ```
    ![image](https://user-images.githubusercontent.com/119097836/226185662-d2692848-4b5d-4116-9110-47905405da2b.png)
 
-## 4. Install traefik
+## 4. **Install traefik**
 1. Install Traefik Resource Definitions
    ```ruby
    kubectl apply -f https://raw.githubusercontent.com/traefik/traefik/v2.9/docs/content/reference/dynamic-configuration/kubernetes-crd-definition-v1.yml
@@ -137,7 +138,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
    ```
    ![image](https://user-images.githubusercontent.com/119097836/226186425-f7aef711-df7c-4b35-ad11-2da961173354.png)
 
-## Result
+## **Result**
 
 ## 1. dashboard
 
