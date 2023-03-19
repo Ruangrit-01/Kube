@@ -114,7 +114,9 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
    kubectl get svc -l app.kubernetes.io/name=traefik
    kubectl get po -l app.kubernetes.io/name=traefik
    ```
-    ![image](https://user-images.githubusercontent.com/119097663/226110849-021d582a-9f75-4685-94c1-2b1569d90ec5.png)
+    ![image](https://user-images.githubusercontent.com/119097836/226186634-cc568852-8cb5-437b-bc15-20222fa65af5.png)
+
+    ![image](https://user-images.githubusercontent.com/119097836/226186684-ae12b746-0df8-47e7-aa14-18e8a6ba386f.png)
 
 5. copy user in dashboard-secret place it at user in traefik-dashboard
 
@@ -130,7 +132,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
    ```ruby
    kubectl apply -f . 
    ```
-   ![image](https://user-images.githubusercontent.com/119097663/226111342-4fa25c0d-bdf7-4beb-95fb-dc99e68fc341.png)
+   ![image](https://user-images.githubusercontent.com/119097836/226186425-f7aef711-df7c-4b35-ad11-2da961173354.png)
 
 ## Result
 
