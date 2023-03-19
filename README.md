@@ -1,11 +1,14 @@
 ## **Spcn17**
+- Ruangrit jantamud 
 
 ## **Kubernetes In Windows**
 
 ## **Wakatime**
-https://wakatime.com/@spcn17/projects/qknlnznyzo
+- https://wakatime.com/@spcn17/projects/qknlnznyzo
 
 **Ref**  https://github.com/TanankornMoonprathom?tab=repositories
+
+**Ref**  https://github.com/KanchanaRangcharoen/Kube
 
 
 ## 1. **Install Kubectl**
