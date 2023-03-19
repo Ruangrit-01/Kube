@@ -4,6 +4,9 @@
 ## Wakatime
 https://wakatime.com/@spcn17/projects/qknlnznyzo
 
+**Ref**  https://github.com/TanankornMoonprathom?tab=repositories
+
+
 ## 1. Install Kubectl
    - Ref 
     - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
@@ -104,7 +107,7 @@ https://wakatime.com/@spcn17/projects/qknlnznyzo
 3. Install Traefik Helmchart
    ```ruby
    helm repo add traefik https://traefik.github.io/charts 
-   helm repo update 
+   helm repo update
    helm install traefik traefik/traefik 
    ```
     ![image](https://user-images.githubusercontent.com/119097836/226183131-b50d850c-2fad-433d-9195-460e5ca92dd6.png)
